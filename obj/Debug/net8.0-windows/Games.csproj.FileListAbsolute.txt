@@ -1,0 +1,16 @@
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Games\bin\Debug\net8.0-windows\Games.exe
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Games\bin\Debug\net8.0-windows\Games.deps.json
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Games\bin\Debug\net8.0-windows\Games.runtimeconfig.json
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Games\bin\Debug\net8.0-windows\Games.dll
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Games\bin\Debug\net8.0-windows\Games.pdb
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Games\obj\Debug\net8.0-windows\Games.Form1.resources
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Games\obj\Debug\net8.0-windows\Games.csproj.GenerateResource.cache
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Games\obj\Debug\net8.0-windows\Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Games\obj\Debug\net8.0-windows\Games.AssemblyInfoInputs.cache
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Games\obj\Debug\net8.0-windows\Games.AssemblyInfo.cs
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Games\obj\Debug\net8.0-windows\Games.csproj.CoreCompileInputs.cache
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Games\obj\Debug\net8.0-windows\Games.dll
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Games\obj\Debug\net8.0-windows\refint\Games.dll
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Games\obj\Debug\net8.0-windows\Games.pdb
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Games\obj\Debug\net8.0-windows\Games.genruntimeconfig.cache
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Games\obj\Debug\net8.0-windows\ref\Games.dll
